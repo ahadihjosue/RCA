@@ -1,4 +1,4 @@
 # RwandaCodingAcademy
-Responisve School Website 
+Responsive School Website 
 
 Try out Demo <a href="https://rwcodingacademy.netlify.app/" target="_blank">here</a>
